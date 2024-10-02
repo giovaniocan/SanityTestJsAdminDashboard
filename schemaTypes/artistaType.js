@@ -1,8 +1,8 @@
 import {defineField, defineType} from 'sanity'
 
 export const artistaType = defineType({
-  name: 'artista',
-  title: 'Artista',
+  name: 'aluno',
+  title: 'Aluno',
   type: 'document',
   fields: [
     defineField({
